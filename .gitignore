@@ -33,6 +33,11 @@ yarn-error.log*
 # env files (can opt-in for committing if needed)
 .env*
 
+# Ignore env files but allow .env.example or .env.sample
+.env
+!.env.example
+!.env.sample
+
 # vercel
 .vercel
 
