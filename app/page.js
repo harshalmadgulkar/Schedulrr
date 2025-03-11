@@ -1,5 +1,3 @@
-import { Button } from '@/components/ui/button';
-
 export default function Home() {
-	return <div>page.js</div>;
+	return <div>Home page.js</div>;
 }
