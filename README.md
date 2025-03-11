@@ -16,9 +16,19 @@ To run this project, you need to configure environment variables for Clerk authe
     Go to [Clerk Dashboard](https://clerk.com/)
     -   Select the **Schedulrr** app
     -   Navigate to **Configure → Developers → API Keys**
+    Go to [NeonDB Dashboard](https://neon.tech/)
+    -   Select the **Schedulrr** Project 
+    -   Click on connect DB
+    -   Select the **Schedulrr** DB & **Dev Role**
+    -   Copy connection string
+
 -   **For Forked Projects:**
     -   Create your own app on [Clerk.com](https://clerk.com/)
     -   Navigate to **Configure → Developers → API Keys**
+
+    -   Create your own app on [Neon.tech](https://neon.tech/)
+    -   Create Database & Role
+    -   Copy connection string
 
 ---
 
