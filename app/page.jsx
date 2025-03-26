@@ -136,7 +136,10 @@ export default function Home() {
 					efficient time management.
 				</p>
 				<Link href='/dashboard'>
-					<Button size='lg' variant='secondary'>
+					<Button
+						size='lg'
+						variant='secondary'
+						className='text-blue-600'>
 						Start For Free <ArrowRight className='ml-2 h-5 w-5' />
 					</Button>
 				</Link>

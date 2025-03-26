@@ -46,6 +46,7 @@ const TestimonialCarousel = () => {
 			]}
 			opts={{
 				align: 'start',
+				loop: true,
 			}}
 			className='w-full mx-auto'>
 			<CarouselContent>
